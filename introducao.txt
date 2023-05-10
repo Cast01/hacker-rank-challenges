@@ -1,0 +1,53 @@
+O que é algoritmo:
+
+    A palavra algoritmo significa 'Um conjunto de regras a serem seguidas em cálculo ou outras operações de resolução de problemas' ou 'Um procedimento para resolver um problema matemático em um número finito de etapas que frequentimente envolve operações recursivas'.
+
+    Portanto algoritmo refere-se a uma sequência de passos finitos para resolver um problema particular.
+
+    Algoritmos podem ser simples e complexos, dependendo do que você deseja alcançar.
+
+    Exemplo de algoritmo:
+
+        https://olimpiada.ic.unicamp.br/static/img/task_images/provaf3ij_flowchart.png
+
+    Existem vários tipos de algoritmos disponíveis. Alguns algoritmos importantes são:
+
+        Brute Force Algorithm:
+
+            HERE...
+
+        Recursive Algorithm:
+
+            HERE...
+
+        Backtraking Algorithm:
+
+            HERE...
+
+        Searching Algorithm:
+
+            HERE...
+
+        Sorting Algorithm:
+
+            HERE...
+
+        Hashing Algorithm:
+
+            HERE...
+
+        Divide and Conquer Algorithm:
+
+            HERE...
+
+        Greedy Algorithm:
+
+            HERE...
+
+        Dynamic Programming Algorithm:
+
+            HERE...
+
+        Randomized Algorithm:
+
+            HERE...
